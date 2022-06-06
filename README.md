@@ -2,7 +2,7 @@
 #**Head Pose Estimation**
 
 
-![g](https://drive.google.com/file/d/1fv2E07Dd9PSgtkFGXsKRPoDGEfsKWCcC/view?usp=sharing)
+![g](https://drive.google.com/file/d/1fv2E07Dd9PSgtkFGXsKRPoDGEfsKWCcC/view?usp=sharing?raw=true)
 
 - In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel. 
 - We will use [AFLW2000](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/Database/AFLW2000-3D.zip) dataset with contains 2000 image and 2000 matlab file with contains the 3 labels (angels).
