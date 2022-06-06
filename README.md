@@ -2,9 +2,10 @@
 **Head Pose Estimation**
 
 
-![image](https://drive.google.com/uc?export=view&id=1fv2E07Dd9PSgtkFGXsKRPoDGEfsKWCcC)
+![head](https://drive.google.com/uc?id=1fv2E07Dd9PSgtkFGXsKRPoDGEfsKWCcC)
 
-<a href="https://drive.google.com/uc?export=view&id=1fv2E07Dd9PSgtkFGXsKRPoDGEfsKWCcC"><img src="https://drive.google.com/uc?export=view&id=<FILEID>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
+
 
 
 - In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel. 
