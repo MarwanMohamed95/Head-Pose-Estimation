@@ -2,7 +2,7 @@
 **Head Pose Estimation**
 
 
-![head](https://drive.google.com/uc?id=1fv2E07Dd9PSgtkFGXsKRPoDGEfsKWCcC)
+![head](https://drive.google.com/file/d/1fv2E07Dd9PSgtkFGXsKRPoDGEfsKWCcC)
 
 
 
