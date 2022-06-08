@@ -2,7 +2,7 @@
 **Head Pose Estimation**
 
 
-![head](https://github.com/MarwanMohamed95/Head-Pose-Estimation/blob/main/out smooth.gif)
+![head](https://github.com/MarwanMohamed95/Head-Pose-Estimation/blob/main/out%20smooth.gif)
 
 
 
